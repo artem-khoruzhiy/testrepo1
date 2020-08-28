@@ -1,3 +1,4 @@
 file 2
 change
 line from user 2
+another line from user2
