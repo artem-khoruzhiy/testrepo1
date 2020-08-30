@@ -1,2 +1,2 @@
 file 1 text change
-line from user1
+line from user1 (fix from user 2)
